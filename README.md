@@ -81,5 +81,3 @@
 <!-- ![Github Stats-ALTERNATIVE](https://github-readme-stats.vercel.app/api?username=ComancheChikn&theme=midnight-purple&show_icons=true) -->
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=ComancheChikn&theme=midnight-purple&mode=weekly)
-
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ComancheChikn)
