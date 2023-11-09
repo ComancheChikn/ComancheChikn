@@ -1,5 +1,5 @@
 # I'm ComancheChikn and I'm a Cloud Engineer Padawan.
-### Technology I use or are familiar with...
+### Some of the technology I use or are familiar with...
 
 <!-- CLOUD PROVIDERS -->
 - ## Cloud Providers
