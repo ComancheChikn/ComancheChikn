@@ -74,6 +74,9 @@
 
 <!-- GITHUB STATS -->
 - ## GitHub Stats
-  ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ComancheChikn&theme=blue-green)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ComancheChikn&theme=blue-green)
+  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ComancheChikn&theme=midnight-purple)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ComancheChikn&theme=midnight-purple&show_icons=true)
+  ![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ComancheChikn?cardType=github&theme=midnight-purple&preferLogin=false)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ComancheChikn&theme=midnight-purple&mode=weekly)
 
+  
