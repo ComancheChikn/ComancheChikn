@@ -74,17 +74,17 @@
 
 <!-- GITHUB STATS -->
 - ## GitHub Stats
-  ![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ComancheChikn?cardType=github&theme=midnight-purple&preferLogin=false)
+  ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ComancheChikn?cardType=github&theme=midnight-purple&referLogin=false)
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ComancheChikn&theme=midnight-purple)
 
-<!-- ![Github Stats-ALTERNATIVE](https://github-readme-stats.vercel.app/api?username=ComancheChikn&theme=midnight-purple&show_icons=true) -->
+<!-- ![GitHub Stats-ALTERNATIVE](https://github-readme-stats.vercel.app/api?username=ComancheChikn&theme=midnight-purple&show_icons=true) -->
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=ComancheChikn&theme=midnight-purple&mode=weekly)
 
-<!-- WakaTime STATS -->
+<!-- WAKATIME STATS -->
 - ## WakaTime Stats
-<!--START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka-->
+<!-- START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka -->
 
   <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
 
@@ -105,4 +105,3 @@
 - ⚡ Fun fact 4: ... Life is hard, but it's harder if you're stupid.😝
 - 🌿 Thank you for stopping by, and may you always know peace and blessings!!!
 - ❤️🩷🧡💛💚💙🩵💜🩵💙💚💛🧡🩷❤️🩷🧡💛💚💙🩵💜🩵💙💚💛🧡🩷❤️
-
